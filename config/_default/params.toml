@@ -1,0 +1,74 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to customise the display of your website.
+
+colorScheme = "bstha"
+defaultAppearance = "light" # valid options: light or dark
+autoSwitchAppearance = false
+
+enableSearch = true
+enableCodeCopy = true
+enableImageLazyLoading = true
+
+# robots = ""
+fingerprintAlgorithm = "sha256"
+
+[header]
+  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
+   logo = "img/logo-light.png"
+   logoDark = "img/logo-dark.png"
+  showTitle = false
+  showAppearanceSwitcher = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = false
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile" # valid options: page, profile, custom
+  showRecent = true
+  recentLimit = 10
+
+[article]
+  showDate = true
+  showDateUpdated = true
+  showAuthor = true
+  showBreadcrumbs = false
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = false
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = true
+  showComments = false
+  sharingLinks = ["twitter", "mastodon", "telegram", "reddit", "linkedin", "email"]
+
+[list]
+  showBreadcrumbs = false
+  showSummary = false
+  showTableOfContents = false
+  showTaxonomies = false
+  groupByYear = true
+  paginationWidth = 1
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true
+
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""

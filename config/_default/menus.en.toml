@@ -1,0 +1,46 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+
+
+
+[[main]]
+  name = "My Blog"
+  pageRef = "myblog"
+  weight = 10
+
+[[main]]
+  name = "Others Blog"
+  pageRef = "othersblog"
+  weight = 20
+
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 30
+  
+[[main]]
+  name = "About"
+  pageRef = "aboutme"
+  weight = 40  
+     
+[[main]]
+  identifier = "search"
+  weight = 50
+  [main.params]
+    action = "search" 
+
+[[main]]
+  identifier = "appearance"
+  weight = 60
+  [main.params]
+    action = "appearance"       
+
+
+
+# -- Footer Menu --
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
