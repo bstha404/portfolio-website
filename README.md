@@ -14,7 +14,7 @@
 ## Description
 
 - This website is made using [HUGO](https://gohugo.io/) with [CONGO](https://themes.gohugo.io/themes/congo/) theme.
-- Head over to [congo documentation](https://jpanther.github.io/congo/docs/) if want to build similar website.
+- Head over to [congo documentation](https://jpanther.github.io/congo/docs/) if you want to build similar website.
 - Hugo is a static site generator.
 - Hugo make it easy to build fully working static website without extensive knowledge on coding.
 ## 🔗 Socials
