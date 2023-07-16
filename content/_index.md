@@ -8,7 +8,7 @@ Welcome to my my portfolio website. This website is where I share my technology 
 Interested in tech news? join my [Telegram channel](https://t.me/TDNepal_C)
  
 
-{{< button href="/aboutme" target="" >}}
+{{< button href="/about" target="" >}}
 More About Me
 {{< /button >}}
 
