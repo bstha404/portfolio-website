@@ -17,22 +17,12 @@ title = "bstha"
   name = "bstha"
   image = "img/profile.jpg"
   headline = "Student, Tech Enthusiast, Web deveploper"
-<<<<<<< HEAD
-  bio = "Tech gadgets, App review, Digital privacy"
-  links = [ 
-  { email = "mailto:hello@biplovestha290@gmail.com" },
-  { twitter = "https://twitter.com/stha_biplov" },
-  { mastodon = "https://mastodon.social/@bstha" },
-  { telegram = "https://t.me/stha_biplov" },
-=======
   bio = "Student, Tech Enthusiast, Web deveploper"
   links = [ 
   { email = "mailto:biplovestha290@gmail.com" },
   { github = "https://bstha.netlify.app/github" },
   { mastodon = "https://bstha.netlify.app/mastodon" },
   { telegram = "https://bstha.netlify.app/telegram" },
-
->>>>>>> missing pages added
 
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -55,10 +45,7 @@ title = "bstha"
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
   #   { linkedin = "https://linkedin.com/in/username" },
-<<<<<<< HEAD
-=======
   #   { mastodon = "https://mastodon.instance/@username" },
->>>>>>> missing pages added
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
@@ -75,10 +62,7 @@ title = "bstha"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-<<<<<<< HEAD
-=======
   #   { twitter = "https://twitter.com/username" },
->>>>>>> missing pages added
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
    ]
