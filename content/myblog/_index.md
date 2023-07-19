@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "MyBlog"
+=======
+title: "My Blog"
+>>>>>>> missing pages added
 description: "Blogs by me."
 cascade:
   showReadingTime: true
@@ -7,9 +11,12 @@ cascade:
   showSummary: true
 ---
 
+<<<<<<< HEAD
 {{< lead >}}
 Discover my blog 
 {{< /lead >}}
+=======
+>>>>>>> missing pages added
 
 ![image with 'BLOG'text](blog.png)
 
