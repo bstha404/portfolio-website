@@ -3,7 +3,7 @@
 **Welcome to the repo of my portfolio/blog website.**
 
 
-🌏**Live Demo:** https://bstha.netlify.app/
+🌏**Live Website:** https://bstha.netlify.app/
 
 
 ## Screenshot
@@ -19,8 +19,8 @@
 - Hugo make it easy to build fully working static website without extensive knowledge on coding.
 ## 🔗 Socials
 
-[![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stha_biplov)
-[![mastodon](https://img.shields.io/badge/mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@bstha)
+[![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://bstha.netlify.app/telegram)
+[![mastodon](https://img.shields.io/badge/mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://bstha.netlify.app/mastodon)
 
 
 ## Liked the project?
